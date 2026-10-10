@@ -1,0 +1,7 @@
+Running: xsim.dir/arith_alu_tb_behav/xsimk.exe -simmode gui -wdb arith_alu_tb_behav.wdb -simrunnum 0 -socket 7040
+Design successfully loaded
+Design Loading Memory Usage: 7700 KB (Peak: 7700 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 8420 KB (Peak: 8420 KB)
+Simulation CPU Usage: 108 ms

@@ -1,0 +1,39 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Time=30000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0000001 | ALUOut=         0 | Carry=0
+Time=50000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0010001 | ALUOut=        15 | Carry=0
+Time=70000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0100001 | ALUOut=        15 | Carry=0
+Time=90000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0110001 | ALUOut=         5 | Carry=0
+Time=110000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=1000001 | ALUOut=4294967290 | Carry=0
+Time=130000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=1010001 | ALUOut=         0 | Carry=0
+Time=150000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=1100001 | ALUOut=        15 | Carry=0
+Time=170000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=1110001 | ALUOut=        15 | Carry=0
+Time=190000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         8 | Control=0001001 | ALUOut=    327680 | Carry=0
+Time=210000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         8 | Control=0011001 | ALUOut=        18 | Carry=0
+Time=230000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         8 | Control=0101001 | ALUOut=        18 | Carry=0
+Time=250000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         8 | Control=0111001 | ALUOut=         2 | Carry=0
+Time=270000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         8 | Control=1001001 | ALUOut=4294967287 | Carry=0
+Time=290000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         8 | Control=1011001 | ALUOut=         8 | Carry=0
+Time=310000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         8 | Control=1101001 | ALUOut=        10 | Carry=0
+Time=330000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         8 | Control=1111001 | ALUOut=         2 | Carry=0
+Time=350000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0000101 | ALUOut=    524288 | Carry=0
+Time=370000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0010101 | ALUOut=         0 | Carry=0
+Time=390000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0100101 | ALUOut=         0 | Carry=0
+Time=410000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0110101 | ALUOut=         0 | Carry=0
+Time=430000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=1000101 | ALUOut=         0 | Carry=0
+Time=450000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0001101 | ALUOut=         0 | Carry=0
+Time=470000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0011101 | ALUOut=        15 | Carry=0
+Time=490000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0101101 | ALUOut=        15 | Carry=0
+Time=510000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0111101 | ALUOut=        15 | Carry=0
+Time=530000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=1001101 | ALUOut=        15 | Carry=0
+Time=550000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0000000 | ALUOut=        15 | Carry=0
+Time=570000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0010000 | ALUOut=         0 | Carry=0
+Time=590000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0100000 | ALUOut=         0 | Carry=0
+Time=610000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         0 | Control=0110000 | ALUOut=         0 | Carry=0
+Time=630000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0000000 | ALUOut=         0 | Carry=0
+Time=650000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0010000 | ALUOut=         0 | Carry=0
+Time=670000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0100000 | ALUOut=         0 | Carry=0
+Time=690000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0110000 | ALUOut=         0 | Carry=0
+Time=710000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0000100 | ALUOut=         0 | Carry=0
+Time=730000 | enable_ex=1 | Src1=        10 | Src2=         5 | Imm=         4 | Control=0001100 | ALUOut=         0 | Carry=0
+$finish called at time : 750 ns : File "C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sim_1/new/two_stage_pipeline_tb.sv" Line 179

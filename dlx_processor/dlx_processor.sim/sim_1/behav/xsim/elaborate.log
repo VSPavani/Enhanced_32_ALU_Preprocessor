@@ -1,0 +1,21 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto b1c04ab9355b4d2ba1f673442191b133 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot two_stage_pipeline_tb_behav xil_defaultlib.two_stage_pipeline_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 3 differs from formal bit length 4 for port 'shift_operation' [C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/ALU.sv:39]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.op_package
+Compiling module xil_defaultlib.proc_if
+Compiling module xil_defaultlib.execute_preprocessor
+Compiling module xil_defaultlib.ARITH_ALU
+Compiling module xil_defaultlib.SHIFT_ALU
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.two_stage_pipeline
+Compiling module xil_defaultlib.two_stage_pipeline_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot two_stage_pipeline_tb_behav

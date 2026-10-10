@@ -1,0 +1,14 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/tvspa/dlx_processor/dlx_processor.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sim_1/new/alu_tb.sv,1743431412,systemVerilog,,C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sim_1/new/arith_alu_tb.sv,,alu_tb,,,,,,,,
+C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sim_1/new/arith_alu_tb.sv,1743430850,systemVerilog,,C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/execute_preprocessor.sv,,arith_alu_tb,,,,,,,,
+C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sim_1/new/execute_processor_tb.sv,1743433465,systemVerilog,,,,execute_processor_tb,,,,,,,,
+C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sim_1/new/two_stage_pipeline_tb.sv,1743437521,systemVerilog,C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/ALU.sv,,,op_package;proc_if;two_stage_pipeline_tb,,,,,,,,
+C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/ALU.sv,1743431540,systemVerilog,C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sim_1/new/two_stage_pipeline_tb.sv;C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/ARITH_ALU.sv;C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/SHIFT_ALU.sv;C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/execute_preprocessor.sv;C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/two_stage_pipeline.sv,C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/ARITH_ALU.sv,,$unit_ALU_sv;ALU,,,,,,,,
+C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/ARITH_ALU.sv,1743431672,systemVerilog,,C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/SHIFT_ALU.sv,,ARITH_ALU,,,,,,,,
+C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/SHIFT_ALU.sv,1743432123,systemVerilog,,C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/execute_preprocessor.sv,,SHIFT_ALU,,,,,,,,
+C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/execute_preprocessor.sv,1743433236,systemVerilog,,C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/two_stage_pipeline.sv,,execute_preprocessor,,,,,,,,
+C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sources_1/new/two_stage_pipeline.sv,1743427969,systemVerilog,,C:/Users/tvspa/dlx_processor/dlx_processor.srcs/sim_1/new/two_stage_pipeline_tb.sv,,two_stage_pipeline,,,,,,,,
